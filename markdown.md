@@ -5,7 +5,7 @@
 ### This is H3
 
 -This is **Bold Text**
--This is *Italic Text**
+-This is *Italic Text*
 
-<Here is a block quote>
+>block quote
 
