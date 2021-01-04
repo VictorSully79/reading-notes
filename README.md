@@ -2,7 +2,7 @@
 Victor Sullivan
 
 ## Description
-This is my reading notes from Codefellows.
+This is my reading notes from Codefellows. [^1]
 
 ### About Me
 My name is Victor and I have always had a love for computers.  I finally took the leap to learn. My Github is http://www.linkedin.com/in/victor-sullivan-079a2a149
