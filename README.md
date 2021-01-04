@@ -6,7 +6,7 @@ This is my reading notes from Codefellows. [^1]
 
 ### About Me
 My name is Victor and I have always had a love for computers.  I finally took the leap to learn. My Github is https://github.com/VictorSully79
-My wife is a registered nurse and way smarter than I am.  We have 2 dogs and a cat which are way too spoiled.   
+My wife is a registered nurse and way smarter than I am.  We have 2 dogs and a cat which are way too spoiled :smile:
 
 
 ### Growth Mindset
