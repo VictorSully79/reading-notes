@@ -9,6 +9,6 @@ My name is Victor and have always had a love for computers.  I finally took the 
 
 ### Growth Mindset
 How to stay in a growth mindset. Here are my 3 examples.
-* One
+1. Remember everyone was a beginner at some point.
 * Two
 * Three
