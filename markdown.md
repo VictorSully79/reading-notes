@@ -4,8 +4,9 @@
 ## This is H2
 ### This is H3
 
--This is **Bold Text**
--This is *Italic Text*
+This is **Bold Text**
+
+This is *Italic Text*
 
 >This is a Block Quote
 
