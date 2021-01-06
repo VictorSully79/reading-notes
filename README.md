@@ -19,6 +19,6 @@ How to stay in a growth mindset. Here are my 3 examples.
 [^1]: This is a work in progress
 
 ### Table of Contents
--[Markdown](https://victorsully79.github.io/reading-notes/markdown.md)
+-[Markdown](https://victorsully79.github.io/reading-notes/markdown)
 -Revisions to the Cloud
 -The Coders Computer
