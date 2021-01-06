@@ -19,6 +19,6 @@ How to stay in a growth mindset. Here are my 3 examples.
 [^1]: This is a work in progress
 
 ### Table of Contents
--[Markdown](Markdown.md)
--[Revisions to the Cloud](Revisions-and-the-cloud.md)
+-[Markdown](markdown.md)
+-[Revisions to the Cloud](revisions-and-the-cloud.md)
 -[The Coders Computer](the_coders_computer.md)
