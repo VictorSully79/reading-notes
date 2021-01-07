@@ -26,3 +26,5 @@ How to stay in a growth mindset. Here are my 3 examples.
 -[The Coders Computer](the_coders_computer.md)
 
 -[Design with CSS](design_web_pages_with_CSS.md)
+
+-[Structuring With HTML](htmlstructure.md)
