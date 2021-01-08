@@ -13,3 +13,27 @@
 
 
 ### Javascript is used in conjunction with HTML and CSS to form a more dynamic experience. Javascript files are incorporated much in the same way CSS files are with a .js extension.  Javascript appears on the page where it is placed in the HTML and defined with the `<script>` element.
+
+
+## Expressions
+### JavaScript uses expressions.  These are broken down to assigning a variable and assigning two or more values to return a single value.
+
+
+### Expressions use Operators to assign value. These are Operators:
+
+### `+` Adds
+`-` Subtracts
+
+`/` Divides
+
+`*` Multiplies
+
+`++` Adds One to the Current Number
+
+`--` Subtracts One From the Current Number
+
+`%` Divides Two Values and Returns the Remainder
+
+
+## Functions
+### Functions allow you to take a group of statments and lump them together to be used in multiple locations.  

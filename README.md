@@ -35,4 +35,6 @@ How to stay in a growth mindset. Here are my 3 examples.
 
 -[How Computers Work](howcomputerswork.md)
 
+-[Programming With JavaScript](dynamicwebjs.md)
+
 
