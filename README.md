@@ -33,3 +33,6 @@ How to stay in a growth mindset. Here are my 3 examples.
 
 -[Java For Dynamic Pages](dynamicwebjs.md)
 
+-[How Computers Work](howcomputerswork.md)
+
+
