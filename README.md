@@ -28,3 +28,5 @@ How to stay in a growth mindset. Here are my 3 examples.
 -[Design with CSS](design_web_pages_with_CSS.md)
 
 -[Structuring With HTML](htmlstructure.md)
+
+-[Operators & Loops](Loops.md)
