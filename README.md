@@ -30,3 +30,6 @@ How to stay in a growth mindset. Here are my 3 examples.
 -[Structuring With HTML](htmlstructure.md)
 
 -[Operators & Loops](Loops.md)
+
+-[Java For Dynamic Pages](dynamicwebjs.md)
+
