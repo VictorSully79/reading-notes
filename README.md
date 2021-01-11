@@ -18,7 +18,7 @@ How to stay in a growth mindset. Here are my 3 examples.
 
 [^1]: This is a work in progress
 
-### Table of Contents
+### Table of Contents Code 102 Notes
 -[Markdown](markdown.md)
 
 -[Revisions to the Cloud](revisions-and-the-cloud.md)
@@ -36,5 +36,7 @@ How to stay in a growth mindset. Here are my 3 examples.
 -[How Computers Work](howcomputerswork.md)
 
 -[Programming With JavaScript](dynamicwebjs.md)
+
+### Code 201 Notes
 
 
