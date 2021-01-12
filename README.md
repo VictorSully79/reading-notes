@@ -38,5 +38,6 @@ How to stay in a growth mindset. Here are my 3 examples.
 -[Programming With JavaScript](dynamicwebjs.md)
 
 ### Code 201 Notes
+-[Day 1](class-01.md)
 
 
