@@ -20,7 +20,6 @@
 
 ## Extra Markup
 
-### 
 ### 1. HTML 5 is the newest version 
 ### 1. '<!DOCTYPE> Declares the HTML type.
 ### 1. Comments that you do not want visible should look like this '<!--invisible comment-->'
