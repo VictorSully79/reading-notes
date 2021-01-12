@@ -15,17 +15,17 @@
 
 ## Points of Realization
 
-1. The body constitutes all visible parts of the page 
-1. The head contains things not visible
+- The body constitutes all visible parts of the page 
+- The head contains things not visible
 
 ## Extra Markup
-1. HTML 5 is the newest version 
-1. '<!DOCTYPE> Declares the HTML type.
-1. Comments that you do not want visible should look like this '<!--invisible comment-->'
-1. Unique ID's can be assigned to an element in order to identify the id from others in the same element.  
-1. Class attributes work much like unique Id's but can pertain to more than one element.
-1.  '<div>' element allows the grouping of elements together in a block
-1. '<span>' like div pertains to  inline elements 
+- HTML 5 is the newest version 
+- '<!DOCTYPE> Declares the HTML type.
+- Comments that you do not want visible should look like this '<!--invisible comment-->'
+- Unique ID's can be assigned to an element in order to identify the id from others in the same element.  
+- Class attributes work much like unique Id's but can pertain to more than one element.
+-  '<div>' element allows the grouping of elements together in a block
+- '<span>' like div pertains to  inline elements 
 
 
 ## HTML 5 Layout
