@@ -65,7 +65,9 @@
 
 ### Expressions use Operators to assign value. These are Operators:
 
-### `+` Adds
+### 
+`+` Adds
+
 `-` Subtracts
 
 `/` Divides
