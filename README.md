@@ -41,5 +41,7 @@ How to stay in a growth mindset. Here are my 3 examples.
 -[Day 1](class-01.md)
 -[Day 2](class-02.md)
 -[Day 3](lbjsdl.md)
+-[Images, Color, Text](images-colors-text.md)
+
 
 
