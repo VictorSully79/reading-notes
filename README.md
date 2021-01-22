@@ -44,6 +44,7 @@ How to stay in a growth mindset. Here are my 3 examples.
 -[Images, Color, Text](images-colors-text.md)
 -[Objects and DOMs](pdod.md)
 -[OOP & Tables](OOP-Tables.md)
+-[Error Handling & Debugging](errorHandlingAndDebugging.md)
 
 
 
