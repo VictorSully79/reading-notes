@@ -45,6 +45,7 @@ How to stay in a growth mindset. Here are my 3 examples.
 -[Objects and DOMs](pdod.md)
 -[OOP & Tables](OOP-Tables.md)
 -[Error Handling & Debugging](errorHandlingAndDebugging.md)
+-[Forms & Events](formsAndEvents.md)
 
 
 
