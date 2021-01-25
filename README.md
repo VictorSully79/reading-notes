@@ -39,13 +39,21 @@ How to stay in a growth mindset. Here are my 3 examples.
 
 ### Code 201 Notes
 -[Day 1](class-01.md)
+
 -[Day 2](class-02.md)
+
 -[Day 3](lbjsdl.md)
 -[Images, Color, Text](images-colors-text.md)
+
 -[Objects and DOMs](pdod.md)
+
 -[OOP & Tables](OOP-Tables.md)
+
 -[Error Handling & Debugging](errorHandlingAndDebugging.md)
+
 -[Forms & Events](formsAndEvents.md)
+
+-[Images &P ractical Info](imagesAndPracticalInfo.md)
 
 
 
