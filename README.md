@@ -55,5 +55,6 @@ How to stay in a growth mindset. Here are my 3 examples.
 
 -[Images &P ractical Info](imagesAndPracticalInfo.md)
 
+-[Charts & Drawing with JS](chartsWithJS.md)
 
 
