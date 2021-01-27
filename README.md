@@ -57,4 +57,6 @@ How to stay in a growth mindset. Here are my 3 examples.
 
 -[Charts & Drawing with JS](chartsWithJS.md)
 
+-[Local Storage](local-storage.md)
+
 
