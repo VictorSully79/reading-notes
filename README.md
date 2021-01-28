@@ -59,4 +59,5 @@ How to stay in a growth mindset. Here are my 3 examples.
 
 -[Local Storage](local-storage.md)
 
+-[Day 15 Notes](notesD15.md)
 
