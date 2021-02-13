@@ -5,9 +5,9 @@ Victor Sullivan
 This is my reading notes from Codefellows. [^1]
 
 ### About Me
-My name is Victor and I have always had a love for computers. I spent 9 years in the Army and 5 years as a Deputy Sheriff.  I finally took the leap to learn. My Github is https://github.com/VictorSully79
+My name is Victor and I have always had a love for computers. I spent 9 years in the Army and 5 years as a Deputy Sheriff.  I finally took the leap to learn. 
 My wife is a registered nurse and way smarter than I am.  We have 2 dogs and a cat which are way too spoiled :smile:
-
+My Github is https://github.com/VictorSully79
 
 ### Growth Mindset
 How to stay in a growth mindset. Here are my 3 examples.
@@ -18,7 +18,7 @@ How to stay in a growth mindset. Here are my 3 examples.
 
 [^1]: This is a work in progress
 
-### Table of Contents Code 102 Notes
+## Code 102 Notes
 -[Markdown](markdown.md)
 
 -[Revisions to the Cloud](revisions-and-the-cloud.md)
@@ -37,7 +37,7 @@ How to stay in a growth mindset. Here are my 3 examples.
 
 -[Programming With JavaScript](dynamicwebjs.md)
 
-### Code 201 Notes
+## Code 201 Notes
 -[Day 1](class-01.md)
 
 -[Day 2](class-02.md)
@@ -60,4 +60,7 @@ How to stay in a growth mindset. Here are my 3 examples.
 -[Local Storage](local-storage.md)
 
 -[Day 15 Notes](notesD15.md)
+
+## Code 301 Notes
+
 
