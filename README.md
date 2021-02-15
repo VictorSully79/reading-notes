@@ -62,5 +62,6 @@ How to stay in a growth mindset. Here are my 3 examples.
 -[Day 15 Notes](notesD15.md)
 
 ## Code 301 Notes
+-[RWD and Floats](smacssRWD.md)
 
 
