@@ -64,4 +64,5 @@ How to stay in a growth mindset. Here are my 3 examples.
 ## Code 301 Notes
 -[RWD and Floats](smacssRWD.md)
 
+-[jQuery & Pair Programming](jquery.md)
 
