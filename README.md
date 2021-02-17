@@ -66,3 +66,5 @@ How to stay in a growth mindset. Here are my 3 examples.
 
 -[jQuery & Pair Programming](jquery.md)
 
+-[Class 3 Notes](class3Notes.md)
+
