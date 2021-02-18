@@ -68,3 +68,4 @@ How to stay in a growth mindset. Here are my 3 examples.
 
 -[Class 3 Notes](class3Notes.md)
 
+-[Class 4 Notes](notes4.md)
