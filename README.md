@@ -73,3 +73,5 @@ How to stay in a growth mindset. Here are my 3 examples.
 -[NodeJS](notesDay5.md)
 
 -[Rest&Teams](restAndTeams.md)
+
+-[SQl](sql.md)
