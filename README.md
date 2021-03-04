@@ -2,7 +2,7 @@
 Victor Sullivan
 
 ## Description
-This is my reading notes from Codefellows. [^1]
+These are my reading notes from Codefellows. [^1]
 
 ### About Me
 My name is Victor and I have always had a love for computers. I spent 9 years in the Army and 5 years as a Deputy Sheriff.  I finally took the leap to learn. 
