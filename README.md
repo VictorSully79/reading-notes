@@ -85,3 +85,5 @@ How to stay in a growth mindset. Here are my 3 examples.
 -[EJS Partials](ejsPartials.md)
 
 -[Sending Forms Data](sendingFormsData.md)
+
+-[Database Normalization](dataBaseNorm.md)
