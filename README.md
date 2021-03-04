@@ -87,3 +87,4 @@ How to stay in a growth mindset. Here are my 3 examples.
 -[Sending Forms Data](sendingFormsData.md)
 
 -[Database Normalization](dataBaseNorm.md)
+-[Diversity in Tech](diversity.md)
