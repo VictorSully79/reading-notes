@@ -91,3 +91,5 @@ How to stay in a growth mindset. Here are my 3 examples.
 -[Diversity in Tech](diversity.md)
 
 ## CF401
+
+-[Java Loops](javaLoops.md)
