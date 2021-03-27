@@ -1,0 +1,33 @@
+# The Java Tutorials
+- notes taken from the above named tutorial
+### Object: An object is a software bundle of related state and behavior. Software objects are often used to model the real-world objects that you find in everyday life.
+
+### Class: A class is a blueprint or prototype from which objects are created.
+
+### Inheritance: Inheritance provides a powerful and natural mechanism for organizing and structuring your software.
+
+### Interface: An interface is a contract between a class and the outside world. When a class implements an interface, it promises to provide the behavior published by that interface.
+
+### Package: A package is a namespace for organizing classes and interfaces in a logical manner. Placing your code into packages makes large software projects easier to manage. 
+
+## Objects
+### Objects are key to understanding *Object-Oriented Technology*
+### All objects have *state* and *behavior* 
+### An object stores its state in fields and exposes it's behavior through methods.  Methods operate the object's internal state and serve as the primary mechanism for *object-to-object* communication.  
+
+
+### *Data Encapsulation* Hiding internal state and requiring all interactions to be performed through an object's methods.  
+
+### Bundling code into individual software objects provides a number of benefits:
+
+- Modularity: The source code for an object can be written and maintained independently of the source code for other objects. Once created, an object can be easily passed around inside the system.
+- Information-hiding: By interacting only with an object's methods, the details of its internal implementation remain hidden from the outside world.
+- Code re-use: If an object already exists (perhaps written by another software developer), you can use that object in your program. This allows specialists to implement/test/debug complex, task-specific objects, which you can then trust to run in your own code.
+- Pluggability and debugging ease: If a particular object turns out to be problematic, you can simply remove it from your application and plug in a different object as its replacement. This is analogous to fixing mechanical problems in the real world. If a bolt breaks, you replace it, not the entire machine.
+
+## Class
+### In the real world, you'll often find many individual objects all of the same kind. There may be thousands of other bicycles in existence, all of the same make and model. Each bicycle was built from the same set of blueprints and therefore contains the same components. In object-oriented terms, we say that your bicycle is an instance of the class of objects known as bicycles. A class is the blueprint from which individual objects are created.
+
+# Binary, Decimal and Hexadecimal Numbers
+notes taken from above article:https://www.mathsisfun.com/binary-decimal-hexadecimal.html
+
