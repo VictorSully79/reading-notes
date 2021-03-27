@@ -93,4 +93,7 @@ How to stay in a growth mindset. Here are my 3 examples.
 ## CF401
 
 -[Java Basics](java-basics.md)
+
 -[Java Loops](javaLoops.md)
+
+-[Maps, primitives, File I/O](mapsPrims.md)
