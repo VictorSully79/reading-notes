@@ -99,3 +99,5 @@ How to stay in a growth mindset. Here are my 3 examples.
 -[Maps, primitives, File I/O](mapsPrims.md)
 
 -[OOP](oop.md)
+
+-[Linked Lists](linked-list.md)
