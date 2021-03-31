@@ -101,3 +101,5 @@ How to stay in a growth mindset. Here are my 3 examples.
 -[OOP](oop.md)
 
 -[Linked Lists](linked-list.md)
+
+-[OO, Solid](solid.md)
