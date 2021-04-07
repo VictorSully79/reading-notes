@@ -107,3 +107,5 @@ How to stay in a growth mindset. Here are my 3 examples.
 -[HTTP](http.md)
 
 -[Spring](spring.md)
+
+-[Spring Integration Testing](integrationTesting.md)
