@@ -117,3 +117,5 @@ How to stay in a growth mindset. Here are my 3 examples.
 -[Web App Security](webAppSecurity.md)
 
 -[Monetization](Monetization.md)
+
+-[Ethics](Ethics.md)
