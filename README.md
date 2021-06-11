@@ -119,3 +119,5 @@ How to stay in a growth mindset. Here are my 3 examples.
 -[Monetization](Monetization.md)
 
 -[Ethics](Ethics.md)
+
+-[Location](Location.md)
