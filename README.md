@@ -121,3 +121,5 @@ How to stay in a growth mindset. Here are my 3 examples.
 -[Ethics](Ethics.md)
 
 -[Location](Location.md)
+
+-[Filters](Filters.md)
